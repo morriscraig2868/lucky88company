@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Lucky88 - lucky88.company - Nền Tảng Cá Cược Đẳng Cấp Với Trải Nghiệm Giải Trí Tuyệt Vời
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Lucky88 <https://lucky88.company/>`_ là một nền tảng cá cược trực tuyến nổi bật, mang đến cho người chơi sự lựa chọn phong phú với các trò chơi casino hấp dẫn, cá cược thể thao đa dạng và xổ số thú vị. Với cam kết đem lại trải nghiệm cá cược tối ưu, Lucky88 thường xuyên triển khai các chương trình khuyến mãi hấp dẫn và ưu đãi đặc biệt để thu hút và giữ chân người dùng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Nhà cái Lucky88 đặt sự bảo mật và công bằng lên hàng đầu trong mọi giao dịch, tạo ra một môi trường cá cược an toàn và đáng tin cậy. Đây chính là lý do Lucky88 trở thành sự lựa chọn phổ biến cho những ai đam mê cá cược trực tuyến, cung cấp một trải nghiệm giải trí chất lượng cao và đáng nhớ.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 159O/5 Đ. Nguyễn Văn Luông, Phường 10, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0988653232. 
 
-.. toctree::
+Email: info@lucky88.company. 
 
-   usage
-   api
+Website: https://lucky88.company/
+
+#lucky88 #nhacailucky88 #trangchulucky88 #dangkylucky88 #linklucky88
